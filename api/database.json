@@ -49,6 +49,36 @@
       "id": "1533",
       "ownsBlueJeans": false,
       "socioLocationId": 1
+    },
+    {
+      "id": "20",
+      "ownsBlueJeans": false,
+      "socioLocationId": 1
+    },
+    {
+      "id": "0222",
+      "ownsBlueJeans": "false",
+      "socioLocationId": 0
+    },
+    {
+      "id": "9a00",
+      "ownsBlueJeans": "false",
+      "socioLocationId": 0
+    },
+    {
+      "id": "cfd5",
+      "ownsBlueJeans": "false",
+      "socioLocationId": 0
+    },
+    {
+      "id": "d97a",
+      "ownsBlueJeans": false,
+      "socioLocationId": 1
+    },
+    {
+      "id": "3679",
+      "ownsBlueJeans": true,
+      "socioLocationId": 4
     }
   ],
   "socioLocations": [
